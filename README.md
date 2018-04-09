@@ -1,13 +1,14 @@
-# Slavic Cat
+# Communist Cat
 
-A fish (shell) theme with a Slavic cat and a rainbow that signifies git status.
+A fish (shell) theme with a communist cat and a rainbow that signifies git status.
 
 
-[![Oh My Fish](https://img.shields.io/badge/Framework-Oh_My_Fish-blue.svg?style=flat)](https://github.com/oh-my-fish/oh-my-fish)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](/LICENSE)
+[![Oh My Fish](https://img.shields.io/badge/Framework-Oh_My_Fish-blue.svg?style=flat-square)](https://github.com/oh-my-fish/oh-my-fish)
+[![license](https://img.shields.io/github/license/TheZeus121/communist-cat.svg?style=flat-square)](/LICENSE)
 
-![Slavic cat in action](https://github.com/yangwao/omf-theme-slavic-cat/blob/master/screenshot.png?raw=true)
+![Communist cat in action](https://github.com/TheZeus121/communist-cat/blob/master/screenshot.png?raw=true)
 
+(Yes this screenshot is the same as in slavic-cat, but there would be no differences here really)
 
 ## Instalation
 
@@ -18,7 +19,7 @@ shell for OS X, Linux, and the rest of the family
 
 Once Oh My Fish is installed:
 
-    omf install slavic-cat
+    omf install https://github.com/TheZeus121/communist-cat
     
 [forked from Toaster](https://github.com/oh-my-fish/theme-toaster)
 
@@ -31,3 +32,4 @@ Once Oh My Fish is installed:
  * Fish shell vi mode indicator
  * Next line prompt
  * Two unicodes included!
+ * Get notified that you are a root or on a remote server
