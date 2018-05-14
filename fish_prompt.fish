@@ -97,7 +97,7 @@ function fish_prompt
     switch $fish_bind_mode
       case default
         set_color red
-        printf $fish_bind_mode
+        printf 'n' 
       case insert
         set_color green
         printf 'i'
